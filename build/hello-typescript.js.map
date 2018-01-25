@@ -1,0 +1,1 @@
+{"version":3,"file":"hello-typescript.js","sourceRoot":"","sources":["../src/hello-typescript.ts"],"names":[],"mappings":"AAAA;IAEI,YAAY,OAAe;QACvB,IAAI,CAAC,QAAQ,GAAG,OAAO,CAAC;IAC5B,CAAC;IACD,KAAK;QACD,MAAM,CAAC,iBAAiB,GAAG,IAAI,CAAC,QAAQ,CAAC;IAC7C,CAAC;CACJ;AACD,IAAI,aAAa,GAAG,IAAI,aAAa,CAAC,gBAAgB,CAAC,CAAC;AACxD,QAAQ,CAAC,IAAI,CAAC,SAAS,GAAG,aAAa,CAAC,KAAK,EAAE,CAAC"}
